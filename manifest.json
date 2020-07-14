@@ -1,0 +1,29 @@
+{
+    "short_name":"Photobucket",
+    "name":"Photobucket Inc.",
+    "description":"A PWA which enables you to share photos with friends",
+    "icons":[{
+        "src":"/assets/icons/icon-144.png",
+        "type":"image/png",
+        "sizes":"144x144"
+    },
+    {
+        "src":"/assets/icons/icon-114.png",
+        "type":"image/png",
+        "sizes":"114x114"
+    }
+    ,{
+        "src":"/assets/icons/icon-192.png",
+        "type":"image/png",
+        "sizes":"192x192"
+    },{
+        "src":"/assets/icons/icon-96.png",
+        "type":"image/png",
+        "sizes":"96x96"
+    }
+],
+"start_url":"/index.html",
+"scope":".",
+"display":"standalone",
+"background_color":"#fff"
+}
